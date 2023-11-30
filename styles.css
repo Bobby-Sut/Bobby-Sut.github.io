@@ -1,0 +1,331 @@
+body {
+    font-family: "trocchi";
+    text-align: center;
+    
+  }
+
+  .container-fluid {
+    padding: 3% 15%;
+  }
+
+  .home {
+    background-color: #252B48;
+    color: #F7E987;
+  }
+
+  .page2 {
+    background-color: #fff;
+    color: #5B9A8B;
+  }
+
+  .navbar {
+    padding-bottom: 4.5rem;
+  }
+
+  .navbar-page2 {
+    padding-bottom: 1rem;
+  }
+  
+  .logo {
+    width: 5rem;
+    margin: -5px -20px;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav1 {
+    font-size: 1.5rem;
+    color: #F7E987;
+  }
+
+  .nav1:hover{
+    color: #5B9A8B;
+  }
+
+  .nav2 {
+    font-size: 1.5rem;
+    color: #5B9A8B;
+  }
+
+  .nav25 {
+    font-size: 1.5rem;
+    color: #5B9A8B;
+  }
+
+  .nav2:hover{
+    color: #F7E987;
+  }
+
+  .nav25:hover {
+    font-size: 1.5rem;
+    color: #5B9A8B;
+  }
+
+  .login-home{
+    font-family: "trocchi";
+    font-size: 1.5rem;
+    background-color: #5B9A8B;
+    color: #252B48;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+    width: 7.5rem;
+    padding: 1% 0;
+  }
+
+  .login-page2{
+    font-family: "trocchi";
+    font-size: 1.5rem;
+    background-color: #F7E987;
+    color: #5B9A8B;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+    width: 7.5rem;
+    padding: 1% 0;
+  }
+
+  .title-container{
+    position: relative;
+  }
+
+  .first-title {
+    font-family: "abril fatface";
+    text-align: left;
+    font-weight: 900;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    padding-top: 4rem;
+  }
+
+  .second-title {
+    font-family: "abril fatface";
+    text-align: left;
+    font-weight: 900;
+    font-size: 4.5rem;
+    line-height: 1.5;
+  }
+
+
+  .btn1{
+    position: relative;
+    left: 0%;
+  }
+
+  .btn2{
+    position: relative;
+    
+  }
+
+  .Download {
+    font-family: "montserrat";
+    font-weight: 900;
+  }
+  
+  
+  .default {
+    background-color: #fff;
+  }
+  
+  .download-button {
+    margin: 5% 3% 5% 0;
+  }
+  
+  .title-image {
+    position: relative;
+    padding: 16% 0;
+    width: 100%;
+    height: auto;
+  }
+
+  .sub-title{
+    position: relative;
+    text-align: left;
+    font-family: "abril fatface";
+    font-weight: 900;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    padding-top: 4rem;
+    color: #5B9A8B;
+  }
+
+  .insight{
+    position: relative;
+    text-align: left;
+    font-family: "trocchi";
+    font-weight: 600rem;
+    font-size: 3rem;
+    line-height: 1;
+    padding-top: 1rem;
+    color: #5B9A8B;
+  }
+
+  .search-bar{
+    padding-top: 7%;
+    padding-bottom: 5rem;
+  }
+
+  .sb{
+    height: 3.5rem;
+    border-radius: 1.75rem;
+  }
+
+  .qb{
+    height: 2.5rem;
+    border-radius: 1.25rem;
+  }
+
+  .goal-form{
+    text-align: left;
+    padding: 4rem 5% 9rem;
+  }
+
+  .consultation{
+    text-align: center;
+    color: #252B48;
+    padding-bottom: 3rem;
+  }
+
+  .form-group{
+    padding-bottom: 1rem;
+  }
+
+  .email-form{
+    padding-bottom: 3rem;
+  }
+
+  .submit{
+    background-color: #252B48;
+    color: #F7E987;
+  }
+
+  .contact-button{
+    width: 4rem;
+  }
+
+  .ct-btn:hover{
+    border: none;
+  }
+
+  .ct-btn:not(:hover){
+    border: none;
+  }
+
+
+
+  /* Page 2 */
+
+
+  .class-title{
+    font-family: "abril fatface";
+    text-align: left;
+    font-size: 2.5rem;
+  }
+
+  .pre-button{
+    margin-left: 0;
+    border: none;
+    background-color: #fff;
+  }
+
+  .left-off{
+    padding: 0 0 4rem 0;
+  }
+
+  .progress{
+    height: 35px;
+    background-color: white;
+    border-bottom: 1px solid;
+    border-radius: 0%;
+  }
+
+  .progress-bar{
+    background-color: #F7E987;
+    color: #252B48;
+    font-family: "trocchi";
+    font-size: 20px;
+    font-weight: 300rem; 
+  }
+
+  .prerequisite{
+    font-size: 1rem;
+    text-align: left;
+    font-weight: 570;
+    padding-top: 1.4rem;
+    padding-bottom: 1rem;
+    color: #5B9A8B;
+  }
+
+  .subject{
+    text-align: left;
+    font-size: 1.7rem;
+    font-weight: 550;
+  }
+
+  .content{
+    text-align: justify;
+    font-family: "arimo";
+    font-size: 1rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .last-content{
+    padding-bottom: 9rem;
+  }
+
+  .forum{
+    padding: 0 5%;
+  }
+
+  .forum-title{
+    font-family: "abril fatface";
+    font-size: 2rem;
+    padding-top: 0.7rem;
+    padding-bottom: 2.5rem;
+  }
+
+  .question{
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+  }
+
+  .AI-title{
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+  }
+  
+  .AI-answer{
+    font-family: "arimo";
+    text-align: justify;
+    font-size: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .identity{
+    font-family: "trocchi";
+    font-size: 1.05rem;
+    text-align: left;
+    margin-bottom: 1%;
+  }
+
+  .forum-answer{
+    font-family: "arimo";
+    text-align: justify;
+    font-size: 1rem;
+    padding-bottom: 1rem;
+  }
+
+
+
+  
+  /* Media Queries */
+  @media (max-width: 1425px) {
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      transform: rotate(0);
+    }
+  }
+  
